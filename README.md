@@ -1,4 +1,4 @@
-# grunt-codecov.io
+# grunt-codecov.io test
 
 > Submit Istanbul code coverage reports to codecov.io
 
